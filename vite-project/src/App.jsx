@@ -1,4 +1,3 @@
-import { useEffect, useState } from "react";
 import Header from "./Header";
 import Nav from "./Nav";
 import Home from "./Home";
